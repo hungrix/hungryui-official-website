@@ -1,4 +1,4 @@
-# [HungryUI Framework](https://hungryui.com)
+# [Hungry UI Framework](https://github.com/hungrix/hungryui)
 
 HungryUI delivers elegant, expressive components for rapid, flavorful development.
 
@@ -10,8 +10,8 @@ HungryUI delivers elegant, expressive components for rapid, flavorful developmen
 
 ## Documentation
 
-Full documentation: [Click here.](https://hungryui.com)
+Full documentation: [Click here.](https://github.com/hungrix/hungryui)
 
 ## Licensing
 
-Copyright Holder: Allen Charls Casul. The source code is licensed under [the MIT license](https://github.com/allencasul/hungryui-official-website/blob/main/LICENSE).
+Copyright Holder: Allen Charls Casul. The source code is licensed under [the MIT license](https://github.com/hungrix/hungryui-official-website/blob/main/LICENSE).
